@@ -1,0 +1,36 @@
+selector{
+    css property: css property value
+}
+/*
+*{
+    color: brown;
+}
+div{
+    background-color: rgb(91, 91, 95);
+    font-style: italic;
+}
+.first:{
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    color: bisque;
+}
+.second:{
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    color: rgb(42, 25, 5);
+}
+[src="./photo-1619148189616-013b06952c04.jpg"
+    border-radius: 40px;
+]
+*/
+/* Box Model */
+.first{
+    color: rgb(15, 231, 159);
+    border: 3px solid red;
+    padding: 24px 12px 6px 15px;
+    margin: 24px 12px 6px 15px;
+    margin-left: 100px;
+    text-transform: lowercase;
+}
