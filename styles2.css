@@ -1,0 +1,21 @@
+body{
+    background-image: url('/photo-1619148189616-013b06952c04.jpg');
+    /*background-image: linear gradient;
+    background-image: conic gradient;
+    background-repeat: no-repeat;
+    background-position: top right;
+    backround-image: fixed or scroll; */
+    background-size: cover;
+}
+/*
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/908/34/383/lofi-digital-anthro-hd-wallpaper-preview.jpg);
+} */
+/*
+.bg{
+    background-color: #abc345;
+    background-color: rgb(75%, 30%, 80%);
+    background-color: rgba(50%, 70%, 30%, 0);
+    height: 400px;
+    width: 200px;
+}*/

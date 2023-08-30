@@ -7,3 +7,5 @@ https://learngitbranching.js.org/
 padding is space between content and border
 Margin is gap between two elements
 Border is outline of box
+CSS battle
+Demo of w3 schools
