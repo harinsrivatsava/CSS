@@ -1,0 +1,8 @@
+.content-wrapper{
+    background-color: beige;
+    font-size: 48px;
+    line-height: 2;
+    height: 600px;
+    overflow: scroll;
+    /* overflow x and y are for x and y axis */
+}

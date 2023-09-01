@@ -1,0 +1,23 @@
+.card{
+    height: 100px;
+    width: 100px;
+    background-color: antiquewhite;
+    box-shadow: -20px -20px -20px gray;
+    border-radius: 32px;
+    position: relative;
+}
+.cart{
+    position: absolute;
+    bottom: 5%;
+    top: 5%;
+    right: 10%;
+    z-index: 0;
+}
+.wish{
+    position: absolute;
+    bottom: 25%;
+    top: 5%;
+    right: 10%;
+    z-index: 3;
+    /* negative z-index means it will go below card */
+}

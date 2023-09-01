@@ -14,3 +14,5 @@ for background a short-hand can also be used
 backround: color, image, repeat, att, position
 Can I use.com - -to check what properties are working in a browser
 tabular icons website
+16px --> 1 rem
+1em --> 30px

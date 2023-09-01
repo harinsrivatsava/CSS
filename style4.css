@@ -1,0 +1,28 @@
+.box{
+    height: 10cm;
+    width: 10cm;
+    background-color: blue;
+}
+.box2{
+    /*inches and mm can also be used */
+    height: 100vh;
+    width: 100vw;
+    background-color: violet;
+}
+.inside{
+    height: 50%;
+    background-color: orangered;
+}
+.box3{
+    height: 10rem;
+    width: 10rem;
+    background-color: blue;
+}
+.inside{
+    height: 1em;
+    width: 1em;
+    background-color: orangered;
+}
+body{
+    margin: 0;
+}

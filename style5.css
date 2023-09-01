@@ -1,0 +1,19 @@
+.box{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    /* whatever is at the top will work first */
+    top: 100px;
+    bottom: 10px;
+    left: 100px;
+    right: 100px;
+}
+.text{
+    position: relative;
+    background-color: beige;
+}
+.Heading{
+    position: sticky;
+    background-color: blueviolet;
+}
