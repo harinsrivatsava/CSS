@@ -1,0 +1,62 @@
+.heading{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: blueviolet;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.Wrapper{
+    background-color: antiquewhite;
+    height: 200px;
+    text-align: left;
+}
+.content{
+    background-color: aquamarine;
+    font-size: 10px;
+    vertical-align: text-top;
+}
+.test{
+    line-height: 100px;
+}
+button{
+    border: thin solid hotpink;
+    background-color: transparent;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: 12px 24px;
+    letter-spacing: 5px;
+}
+.joke{
+    font-family: 'Roboto Slab', serif;
+    font-style: italic;
+}
+ul{
+    list-style-type: square;
+    /*
+    list-style-image: url('https://img.freepik.com/free-vector/illustration-touch-screen-hand-gesture_53876-5607.jpg?size=626&ext=jpg&ga=GA1.1.252261022.1693546879&semt=ais');
+*/
+    list-style-position: inside;
+}
+ol{
+    /*Short-hand property - type, position, imagge*/
+    list-style: lower-greek inside;
+}
+.f{
+    color: green;
+}
+.s{
+    color: blue;
+}
+.t{
+    color: brown;
+}
+.four{
+    /*this can be dowloaded from color gradient websits*/
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    width: max-content;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}

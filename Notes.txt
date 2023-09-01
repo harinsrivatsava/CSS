@@ -9,3 +9,8 @@ Margin is gap between two elements
 Border is outline of box
 CSS battle
 Demo of w3 schools
+hex is good for color
+for background a short-hand can also be used
+backround: color, image, repeat, att, position
+Can I use.com - -to check what properties are working in a browser
+tabular icons website
