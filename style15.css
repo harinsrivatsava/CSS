@@ -1,0 +1,8 @@
+.outer{
+    height: 200px;
+    width: 300px;
+    box-sizing: border-box;
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+    border-left: 60px solid green;
+}
